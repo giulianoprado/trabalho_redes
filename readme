@@ -1,0 +1,14 @@
+Todos os arquivos contidos neste repositório foram desenvolvidos por:
+Marcello de Paula Ferreira Costa
+Giuliano Barbosa Prado
+
+Os arquivos podem ser redistribuídos com os devidos créditos.
+
+Para compilar:
+$ make
+
+Para limpar os arquivos *.o
+$ make cleanobj
+
+para executar:
+./dosapp
